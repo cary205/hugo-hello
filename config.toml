@@ -1,4 +1,11 @@
-baseURL = "http://cary205.github.io/hugo-hello/"
+baseURL = "https://cary205.github.io/hugo-hello/"
 languageCode = "en-us"
 title = "hugo-hello"
-theme = "ananke"
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
