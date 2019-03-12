@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cary205.github.io/hugo-hello/2019/my-first-post/</loc>
+    <loc>https://cary205.github.io/hugo-hello/2019/my-first-post/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cary205.github.io/hugo-hello/archives/</loc>
+    <loc>https://cary205.github.io/hugo-hello/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cary205.github.io/hugo-hello/post/</loc>
+    <loc>https://cary205.github.io/hugo-hello/post/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cary205.github.io/hugo-hello/tags/</loc>
+    <loc>https://cary205.github.io/hugo-hello/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cary205.github.io/hugo-hello/</loc>
+    <loc>https://cary205.github.io/hugo-hello/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
     <priority>0</priority>
   </url>

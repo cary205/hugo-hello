@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on hugo-hello</title>
-    <link>http://cary205.github.io/hugo-hello/tags/</link>
+    <link>https://cary205.github.io/hugo-hello/tags/</link>
     <description>Recent content in Tags on hugo-hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="http://cary205.github.io/hugo-hello/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://cary205.github.io/hugo-hello/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
