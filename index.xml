@@ -8,15 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 02:49:37 +0000</lastBuildDate>
     
-	<atom:link href="http://cary205.github.io/hugo-hello/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://cary205.github.io/hugo-hello/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://cary205.github.io/hugo-hello/posts/my-first-post/</link>
+      <link>http://cary205.github.io/hugo-hello/2019/my-first-post/</link>
       <pubDate>Tue, 12 Mar 2019 02:49:37 +0000</pubDate>
       
-      <guid>http://cary205.github.io/hugo-hello/posts/my-first-post/</guid>
+      <guid>http://cary205.github.io/hugo-hello/2019/my-first-post/</guid>
       <description>Hello World</description>
     </item>
     

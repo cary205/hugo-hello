@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on hugo-hello</title>
+    <link>http://cary205.github.io/hugo-hello/archives/</link>
+    <description>Recent content in Archives on hugo-hello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="http://cary205.github.io/hugo-hello/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
