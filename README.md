@@ -24,7 +24,7 @@ include content marked as draft on http://localhost:1313/:
 
 ...or binding ip and port: 
 
-`$ hugo server --bind 0.0.0.0 -p 8080`
+`$ hugo server --bind 0.0.0.0 -p 8080 -b http://baseURL.com/`
 
 ## Deployment
 
