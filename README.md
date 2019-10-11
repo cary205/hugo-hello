@@ -1,6 +1,6 @@
 # hugo-hello
 
-## Preparation
+## Installation
 
 ### Install Hugo
 
@@ -10,7 +10,7 @@
 
 `$ git clone --recurse-submodules https://github.com/cary205/hugo-hello.git`
 
-## Edit
+## Usage
 
 ### Add Some Content
 
