@@ -1,32 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cary205.github.io/hugo-hello/2019/my-first-post/</loc>
+    <loc>https://hugo.caryw.me/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cary205.github.io/hugo-hello/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cary205.github.io/hugo-hello/post/</loc>
+    <loc>https://hugo.caryw.me/2019/my-first-post/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cary205.github.io/hugo-hello/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cary205.github.io/hugo-hello/</loc>
+    <loc>https://hugo.caryw.me/post/</loc>
     <lastmod>2019-03-12T02:49:37+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.caryw.me/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hugo.caryw.me/tags/</loc>
   </url>
   
 </urlset>
